@@ -1,16 +1,22 @@
-### Hi there 👋
+<hr>
+<div>
+<h1>Hello World 👋</h1>
 
-<!--
-**zsGuil/zsGuil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<i>Just a student in search of knowledge...</i>
 
-Here are some ideas to get you started:
+Welcome to my humble Github profile! With small steps, I become strong.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/zsGuil">
+  <img src="https://github-readme-stats.vercel.app/api?username=zsGuil&show_icons=true&theme=dark" /><br>
+</a>
+
+<hr>
+
+<div>
+  <h3>Technologies I study<h3>
+  
+  <img align="center" alt="Javascript" width="60" height="60" src="https://media.discordapp.net/attachments/826844594464489494/856230935606722560/javascript-original.png" style="max-width:100%;">
+  <img align="center" alt="HTML" width="60" height="60" src="https://media.discordapp.net/attachments/826844594464489494/856231028980580432/html5-original-wordmark.png" style="max-width:100%;">
+  <img align="center" alt="CSS" width="60" height="60" src="https://media.discordapp.net/attachments/826844594464489494/856231006775803934/css3-original-wordmark.png" style="max-width:100%;">
+   
+</div>
