@@ -1,10 +1,8 @@
-<h1 align="center">Hello World 👋</h1>
+<h1>Hello World 👋</h1>
 
-<p align="center">
-  <i>Just a student in search of knowledge...</i>
-</p>
+<i>Just a student in search of knowledge...</i>
 
-<p align="center">Welcome to my humble Github profile! With small steps, I become strong.</p>
+Welcome to my humble Github profile! With small steps, I become strong.
 
 <div style="display: inline-block">
   <a href="https://github.com/zsGuil">
