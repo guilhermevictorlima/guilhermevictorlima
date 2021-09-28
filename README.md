@@ -1,17 +1,22 @@
-<h1>Hello World 👋</h1>
+<h1 align="center">Hello World 👋</h1>
 
-<i>Just a student in search of knowledge...</i>
+<p align="center">
+  <i>Just a student in search of knowledge...</i>
+</p>
 
-Welcome to my humble Github profile! With small steps, I become strong.
+<p align="center">Welcome to my humble Github profile! With small steps, I become strong.</p>
 
-<a href="https://github.com/zsGuil">
-  <img src="https://github-readme-stats.vercel.app/api?username=zsGuil&show_icons=true&theme=dark" /><br>
-</a>
+<div style="display: inline-block">
+  <a href="https://github.com/zsGuil">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=zsGuil&show_icons=true&theme=dark" /><br>
+  </a>
+  <img align="rigth" alt="Cute-gif" width="170" src="https://media.giphy.com/media/PTwLF3jNpNb4vn9UX3/giphy.gif?cid=790b7611a07d2947794b47f727c7abeb3f57104c514a6acd&rid=giphy.gif&ct=g">
+</div>
 
 <hr>
 
-<div style="display: inline-block">
-  <h3 align="center">Technologies I study 👨‍💻<h3>
+<div style="display: inline-block" align="center">
+  <h3>Technologies I study 👨‍💻<h3>
     
   <h4>Tools and Frameworks ⬇️<h4>
     <img alt="HTML" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
