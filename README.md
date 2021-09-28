@@ -1,4 +1,3 @@
-<div>
 <h1>Hello World 👋</h1>
 
 <i>Just a student in search of knowledge...</i>
@@ -36,4 +35,3 @@ Welcome to my humble Github profile! With small steps, I become strong.
     <br>
     <img src="https://pa1.narvii.com/6238/027741729cafeb2ba8b1acdb1a602111983ba6f8_hq.gif">
   </div>
-</div>
