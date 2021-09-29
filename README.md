@@ -2,7 +2,7 @@
 
 <i>Just a student in search of knowledge...</i>
 
-Welcome to my humble Github profile! With small steps, I become strong.
+Welcome to my humble Github profile! In small steps, I become strong.
 
 <div style="display: inline-block">
   <a href="https://github.com/zsGuil">
