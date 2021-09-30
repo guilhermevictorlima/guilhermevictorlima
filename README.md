@@ -41,7 +41,7 @@ Welcome to my humble Github profile! In small steps, I become strong.
    </a>
     
    <h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsGuil&layout=compact&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsGuil&layout=compact&theme=dracula">
    </h3>
     
 </div>
