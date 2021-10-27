@@ -16,7 +16,7 @@ Welcome to my humble Github profile! In small steps, I become strong.
 <div style="display: inline-block" align="center">
   <h3>Technologies I study 👨‍💻<h3>
     
-  <h4>Tools and Frameworks ⬇️<h4>
+  <h4>Front-End Tools and Frameworks ⬇️<h4>
     <img alt="HTML" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img alt="CSS" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <a href="https://vuejs.org/">
@@ -26,13 +26,16 @@ Welcome to my humble Github profile! In small steps, I become strong.
       <img alt="SASS" width="60" heigth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
     </a>
     
-  <h4>Languages and stuff like that ⬇️<h4>
+  <h4>Languages or Back-End stuff ⬇️<h4>
     <img alt="Javascript" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <a href="https://www.typescriptlang.org/">
       <img alt="Typescript" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     </a>
     <a href="https://www.java.com/">
       <img alt="Java" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    </a>
+    <a href="https://www.mysql.com/">
+      <img alt="MySQL" width="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
     </a>
     
   <h4>For fun or curiosity ⬇️</h4>
