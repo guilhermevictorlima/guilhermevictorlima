@@ -39,8 +39,15 @@ Software developer at [@bluesoft](https://github.com/bluesoft). Playing with cod
 
 ### > Contact me!
 
-<img align="left" display="inline" width="200" src="https://i.pinimg.com/originals/25/f5/0b/25f50bca01a360d940cf512d2b336871.gif">
-<br><br>
+<img align="left" display="inline" width="220" src="https://i.pinimg.com/originals/25/f5/0b/25f50bca01a360d940cf512d2b336871.gif">
+<br><br><br>
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://mail.google.com/mail/?view=cm&source=mailto&to=guilhermevictorrocha@gmail.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<br>
+
+<a href="https://www.linkedin.com/in/guilherme-victor-lima/">
+  <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
