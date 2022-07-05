@@ -35,6 +35,10 @@ Software developer at [@bluesoft](https://github.com/bluesoft). Playing with cod
 ![Vuejs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
+&nbsp;
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=zsGuil&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 * * *
 
 ### > Contact me!
